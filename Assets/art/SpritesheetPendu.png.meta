@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 190b43a467667ab46b313fcd14225ac0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesheetPendu_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 329
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465694b4bdf80f9489b2b7d50ae7c653
+      internalID: 549763583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 329
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b840f934ffdd3242b83f0d4bb1aaa70
+      internalID: -1400416907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 329
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d1e2560f8b8f949b41e17187497448
+      internalID: -512443424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 329
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cb54e89c617b942b1e5cfc568778aa
+      internalID: -999695384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 283
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be86cd5d9b261744a9987a3a6e667b8
+      internalID: 2075974567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 287
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b43b348cf8074a4192da3f1f7ef007f
+      internalID: 2086211158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15fab630055e8545a4a2130b3d2bcb6
+      internalID: 348880376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff9820c0d2c104aa458c7a4f47eabc
+      internalID: -2122278368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f6aeec83a3c145a8349901e1bb659
+      internalID: -1837295176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 98
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2e80ad9eaa864ebc57ee926d578f0
+      internalID: 319520924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 99
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e2838e23a4c424b8bd1852f44c9760
+      internalID: 288001587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 112
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00f35a22fc4b04c97afe277e44206f
+      internalID: -1159771613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 67
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9ee6c023a876b4189d5d8cc073897c
+      internalID: 634057165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c1fd38d1a8ec4d85088a7123fbaec
+      internalID: 230953601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 69
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39fc8750b704674aa0b7ea5afd44584
+      internalID: 539397331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetPendu_15
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 77
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4918a3e33da37d7428422b672283c438
+      internalID: 1899207927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -409, y: 222}
+      - {x: -409, y: 228}
+      - {x: -404, y: 228}
+      - {x: -404, y: 222}
+    - - {x: -447, y: 9}
+      - {x: -447, y: 219}
+      - {x: -250, y: 219}
+      - {x: -250, y: 9}
+    - - {x: -218, y: 9}
+      - {x: -218, y: 222}
+      - {x: -54, y: 222}
+      - {x: -54, y: 9}
+    - - {x: -34, y: 15}
+      - {x: -34, y: 219}
+      - {x: 171, y: 219}
+      - {x: 171, y: 15}
+    - - {x: 220, y: 210}
+      - {x: 220, y: 217}
+      - {x: 222, y: 217}
+      - {x: 222, y: 210}
+    - - {x: 191, y: 43}
+      - {x: 191, y: 207}
+      - {x: 381, y: 207}
+      - {x: 391, y: -16}
+    - - {x: 209, y: -199}
+      - {x: 209, y: -12}
+      - {x: 365, y: -12}
+      - {x: 365, y: -199}
+    - - {x: -17, y: -203}
+      - {x: -17, y: -21}
+      - {x: 147, y: -21}
+      - {x: 147, y: -203}
+    - - {x: -224, y: -204}
+      - {x: -224, y: -27}
+      - {x: -58, y: -27}
+      - {x: -58, y: -204}
+    - - {x: -429, y: -28}
+      - {x: -426, y: -28}
+      - {x: -407, y: -25}
+      - {x: -407, y: -28}
+    - - {x: -445, y: -207}
+      - {x: -445, y: -32}
+      - {x: -257, y: -32}
+      - {x: -257, y: -207}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpritesheetPendu_0: 549763583
+      SpritesheetPendu_1: -1400416907
+      SpritesheetPendu_10: 288001587
+      SpritesheetPendu_11: -1159771613
+      SpritesheetPendu_12: 634057165
+      SpritesheetPendu_13: 230953601
+      SpritesheetPendu_14: 539397331
+      SpritesheetPendu_15: 1899207927
+      SpritesheetPendu_2: -512443424
+      SpritesheetPendu_3: -999695384
+      SpritesheetPendu_4: 2075974567
+      SpritesheetPendu_5: 2086211158
+      SpritesheetPendu_6: 348880376
+      SpritesheetPendu_7: -2122278368
+      SpritesheetPendu_8: -1837295176
+      SpritesheetPendu_9: 319520924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
