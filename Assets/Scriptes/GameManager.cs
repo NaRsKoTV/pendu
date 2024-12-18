@@ -38,6 +38,7 @@ public class GameManager : MonoBehaviour
         }
             //definit le mots 
     }
+    // MONTRE (DISPLAY )
     private void DisplayWord(){
         string word ="";
         foreach(char c in shownWord ){
